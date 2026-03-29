@@ -1,5 +1,6 @@
 #!/bin/bash
 # Activate SDR virtual environment
+# © yo3iti@gmail.com - Miron Iancu YO3ITI
 
 VENV_PATH="$HOME/programare/sdr_build/venv"
 

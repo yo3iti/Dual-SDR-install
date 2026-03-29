@@ -1,5 +1,6 @@
 #!/bin/bash
 # install_sdr_fixed.sh - Fixed installation script for Raspberry Pi
+# © yo3iti@gmail.com - Miron Iancu YO3ITI
 
 set -e
 
